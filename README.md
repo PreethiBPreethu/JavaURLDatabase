@@ -15,7 +15,7 @@ list
 exit
 
 
-##Example Usage
+
 Run the program from main method
 storeurl google.com
 get google.com
@@ -24,6 +24,6 @@ list
 exit
 
 
-## Note
+
 The program uses local variables instead of a database to store data.
 The short key generation logic is implemented internally.
